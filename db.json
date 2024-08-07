@@ -1,20 +1,11 @@
 {
   "posts": [
     {
-      "id": 0,
-      "title": "hello",
-      "text": "Lorem ipsum dolor sit amer",
-      "image": "https://via.assets.so/furniture.png?id=1&q=95&w=360&h=360&fit=fill"
+      "id": 1,
+      "title": "hello"
     }
   ],
-  "comments": [
-    {
-      "id": "0",
-      "post-id": "0",
-      "text": "LOrem dawwadwadwad"
-    }
-  ]
-   "profile": {
+  "profile": {
     "name": "typicode"
   }
 }
