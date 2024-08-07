@@ -1,11 +1,18 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": 0,
+      "title": "Post 1",
       "text": "Lorem ipsum dolor sit amet",
       "image-url": "https://via.assets.so/furniture.png?id=1&q=95&w=360&h=360&fit=fill" 
     }
   ],
+  "comments": [
+    {
+      "id": 0,
+      "text": "Bladlawdlawdawldwal"
+    }
+  ]
   "profile": {
     "name": "typicode"
   }
