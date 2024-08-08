@@ -4,53 +4,53 @@
       "id": 0,
       "title": "Post 0",
       "text": "Lorem ipsum dolor sit amet",
-      "image-url": "https://via.assets.so/furniture.png?id=1&q=95&w=360&h=360&fit=fill" 
+      "imageUrl": "https://via.assets.so/furniture.png?id=1&q=95&w=360&h=360&fit=fill" 
     },
     {
       "id": 1,
       "title": "Post 1",
       "text": "Lorem ipsum dolor sit amet",
-      "image-url": "https://via.assets.so/furniture.png?id=1&q=95&w=360&h=360&fit=fill" 
+      "imageUrl": "https://via.assets.so/furniture.png?id=1&q=95&w=360&h=360&fit=fill" 
     },
     {
       "id": 2,
       "title": "Post 2",
       "text": "Lorem ipsum dolor sit amet",
-      "image-url": "https://via.assets.so/furniture.png?id=1&q=95&w=360&h=360&fit=fill" 
+      "imageUrl": "https://via.assets.so/furniture.png?id=1&q=95&w=360&h=360&fit=fill" 
     },
     {
       "id": 3,
       "title": "Post 3",
       "text": "Lorem ipsum dolor sit amet",
-      "image-url": "https://via.assets.so/furniture.png?id=1&q=95&w=360&h=360&fit=fill" 
+      "imageUrl": "https://via.assets.so/furniture.png?id=1&q=95&w=360&h=360&fit=fill" 
     },
     {
       "id": 4,
       "title": "Post 4",
       "text": "Lorem ipsum dolor sit amet",
-      "image-url": "https://via.assets.so/furniture.png?id=1&q=95&w=360&h=360&fit=fill" 
+      "imageUrl": "https://via.assets.so/furniture.png?id=1&q=95&w=360&h=360&fit=fill" 
     },
     {
       "id": 5,
       "title": "Post 5",
       "text": "Lorem ipsum dolor sit amet",
-      "image-url": "https://via.assets.so/furniture.png?id=1&q=95&w=360&h=360&fit=fill" 
+      "imageUrl": "https://via.assets.so/furniture.png?id=1&q=95&w=360&h=360&fit=fill" 
     }
   ],
   "comments": [
     {
       "id": 0,
-      "post-id": "2",
+      "postId": "2",
       "text": "Bladlawdlawdawldwal"
     },
     {
       "id": 1,
-      "post-id": "2",
+      "postId": "2",
       "text": "Bladlawdlawdawldwal222"
     },
     {
       "id": 2,
-      "post-id": "3",
+      "postId": "3",
       "text": "Bladlawdlawdawldwaaad21l222"
     }
   ],
