@@ -40,7 +40,18 @@
   "comments": [
     {
       "id": 0,
+      "post-id": 2,
       "text": "Bladlawdlawdawldwal"
+    },
+    {
+      "id": 1,
+      "post-id": 2,
+      "text": "Bladlawdlawdawldwal222"
+    },
+    {
+      "id": 2,
+      "post-id": 3,
+      "text": "Bladlawdlawdawldwaaad21l222"
     }
   ],
   "profile": {
