@@ -35,6 +35,12 @@
       "title": "Post 5",
       "text": "Lorem ipsum dolor sit amet",
       "imageUrl": "https://via.assets.so/furniture.png?id=5&q=95&w=360&h=360&fit=fill" 
+    },
+    {
+      "id": 6,
+      "title": "Post 6",
+      "text": "Lorem ipsum dolor sit amet",
+      "imageUrl": "" 
     }
   ],
   "comments": [
